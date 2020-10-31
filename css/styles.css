@@ -1,0 +1,45 @@
+
+
+  body{
+    width: 1300px;
+    height: 600px;
+    margin: 150px auto 150px auto;
+    border: solid 1px;
+    position: relative;
+  }
+  div{
+    margin: 20px;
+    position: absolute;
+    border-radius:5%;
+  }
+
+  .daniel-clifford{
+    border: solid 1px;
+    height: 270px;
+    width: 580px;
+  }
+  .jonathan-walters{
+    height: 270px;
+    width: 335px;
+    border: solid 1px;
+    left: 600px;
+  }
+  .kira-whittle{
+    border: solid 1px;
+    height: 560px;
+    width: 300px;
+    right:0px;
+  }
+  .jeanette-harmon{
+    bottom: 0px;
+    border: solid 1px;
+    height: 270px;
+    width: 335px;
+  }
+  .patrick-abrams{
+    border: solid 1px;
+    height: 270px;
+    width: 580px;
+    bottom: 0px;
+    left: 355px;
+  }
